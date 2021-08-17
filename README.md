@@ -45,6 +45,6 @@ Git , Github , Gitlab , Gitflow
 
 ### Email : Behnampoorafkham@yahoo.com
 
-### Linkedin : behnampoorafkham
+### Linkedin : https://www.linkedin.com/in/behnampoorafkham/
 
 ### Instagram : behnam__po
